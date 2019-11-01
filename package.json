@@ -1,0 +1,30 @@
+{
+  "name": "reactive-rxjs",
+  "version": "1.0.0",
+  "description": "Funcionalidad asíncrona y síncrona, utilización de callback, promesas, asyn await y conceptos de la librería de RxJs observables y suscripciones para el manejo reactivo de eventos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erickfabricio/reactive-rxjs.git"
+  },
+  "keywords": [
+    "callback",
+    "promesas",
+    "asyn",
+    "await",
+    "observables",
+    "suscripciones"
+  ],
+  "author": "Erick Fabricio Martínez Castellanos  - https://erickfabricio.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erickfabricio/reactive-rxjs/issues"
+  },
+  "homepage": "https://github.com/erickfabricio/reactive-rxjs#readme",
+  "dependencies": {
+    "rxjs": "^6.5.3"
+  }
+}
